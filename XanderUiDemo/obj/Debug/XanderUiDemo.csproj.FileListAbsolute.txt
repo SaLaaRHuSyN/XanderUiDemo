@@ -1,0 +1,10 @@
+c:\users\ploto\documents\visual studio 2015\Projects\XanderUiDemo\XanderUiDemo\bin\Debug\XanderUiDemo.exe.config
+c:\users\ploto\documents\visual studio 2015\Projects\XanderUiDemo\XanderUiDemo\bin\Debug\XanderUiDemo.exe
+c:\users\ploto\documents\visual studio 2015\Projects\XanderUiDemo\XanderUiDemo\bin\Debug\XanderUiDemo.pdb
+c:\users\ploto\documents\visual studio 2015\Projects\XanderUiDemo\XanderUiDemo\bin\Debug\XanderUI.dll
+c:\users\ploto\documents\visual studio 2015\Projects\XanderUiDemo\XanderUiDemo\obj\Debug\XanderUiDemo.csprojResolveAssemblyReference.cache
+c:\users\ploto\documents\visual studio 2015\Projects\XanderUiDemo\XanderUiDemo\obj\Debug\XanderUiDemo.Form1.resources
+c:\users\ploto\documents\visual studio 2015\Projects\XanderUiDemo\XanderUiDemo\obj\Debug\XanderUiDemo.Properties.Resources.resources
+c:\users\ploto\documents\visual studio 2015\Projects\XanderUiDemo\XanderUiDemo\obj\Debug\XanderUiDemo.csproj.GenerateResource.Cache
+c:\users\ploto\documents\visual studio 2015\Projects\XanderUiDemo\XanderUiDemo\obj\Debug\XanderUiDemo.exe
+c:\users\ploto\documents\visual studio 2015\Projects\XanderUiDemo\XanderUiDemo\obj\Debug\XanderUiDemo.pdb
